@@ -53,7 +53,7 @@ Impact of Smoking, Anaemia, Diabetes, and High Blood Pressure: Sankey-style flow
 🖼 Dashboard Preview
 Heart Dashboard
 
-(Replace "Dashboard_Screenshot.png" with your actual uploaded screenshot filename)
+(https://github.com/Pramitverma/Heart_Disease_Anaysis_Dashboard/blob/main/Heart_Disease_Analysis_Screnshot.png)
 
 🚀 How to Use
 Clone or download this repository.
@@ -61,9 +61,9 @@ Open Heart_Disease_Analysis.pbix in Power BI Desktop.
 Load or refresh data (from your Excel source).
 Use available filters/slicers (age group, gender, conditions) to interact with the visuals.
 📧 Contact
-Created by [Your Name] 👨‍💻
+Created by Pramit verma 👨‍💻
 
-📩 Email – your_email@example.com
-🔗 LinkedIn – https://linkedin.com/in/yourprofile
+📩 Email – pratapverma14810869@gmail.com
+🔗 LinkedIn – www.linkedin.com/in/pramit-verma-589077245
 
 💡 Feedback, suggestions, and contributions are always welcome!
